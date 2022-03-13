@@ -10,7 +10,7 @@ US intelligence [has said](https://foreignpolicy.com/2022/02/11/russia-invasion-
 There’s been a flurry of high level diplomacy in the last 10 days or so, but there’s no sign these efforts are working. In fact, Russia’s Foreign Minister Sergei Lavrov [said](https://www.thenational.scot/news/19914489.sergei-lavrov-says-meeting-liz-truss-like-talking-deaf-person/) talks with UK foreign secretary Lizz Truss were like “talking to the deaf.”
 
 <figure>
-	<img src="{{ site.baseurl }}/assets/putin.png" alt="image">
+	<img src="{{ site.baseurl }}/assets/pics/putin.png" alt="image">
 	<figcaption>
 		Puton's managed to keep the West guessing. Only he knows what's next.
 	</figcaption>
